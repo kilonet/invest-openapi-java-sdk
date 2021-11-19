@@ -42,7 +42,7 @@ public class App {
             "TIPO " +
             "FXITSD000UTSTOM AAPL").split(" "));
     private static final List<String> EM = Arrays.asList("VTBE".split(" "));
-    private static final List<String> DM = Arrays.asList("SNY FXFA FXDM TEUR FXDE EUR_RUB__TOM".split(" "));
+    private static final List<String> DM = Arrays.asList("TEUS SNY FXFA FXDM TEUR FXDE EUR_RUB__TOM".split(" "));
     private static final List<String> CN = Arrays.asList("BABA BIDU FXCN".split(" "));
     static org.slf4j.Logger logger;
 
